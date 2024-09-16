@@ -1,0 +1,10 @@
+[Main]
+version = 'v0.1'
+chara_version = 'v0.1'
+theme_dir = './themes'
+plugins_dir ='./plugins'
+
+[Fridge]
+skin = "black" 
+background_color = "255,255,255" #RGB
+
